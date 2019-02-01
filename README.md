@@ -42,7 +42,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products
 * Big Data Analytics Using Apache Spark [Video] [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/big-data-analytics-using-apache-spark-video?utm_source=github&utm_medium=repository&utm_campaign=9781789134124 ) [[Amazon]](https://www.amazon.com/dp/1789134129)
 
-*  [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789346568)
+* Machine Learning with Apache Spark Quick Start Guide [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789346568)
 
 
 ## Get to Know the Author
