@@ -54,14 +54,7 @@ been part of Risk Technologies, he has gained insights into Hadoop, with a focus
 HBase, and Hive. His technical strengths also include Elasticsearch, Kafka, Java, YARN,
 Sqoop, and Flume. He likes spending time performing research and development on
 different big-data technologies. He is the coauthor of the books Learning YARN and Hive
-Cookbook, a certified Hadoop developer, and he has also written various has over 8 years of IT experience and, for the past 6 years, has been
-designing the architecture of cloud and big-data solutions for the finance, media, and
-governance sectors. Having worked on research and development with big-data labs and
-been part of Risk Technologies, he has gained insights into Hadoop, with a focus on Spark,
-HBase, and Hive. His technical strengths also include Elasticsearch, Kafka, Java, YARN,
-Sqoop, and Flume. He likes spending time performing research and development on
-different big-data technologies. He is the coauthor of the books Learning YARN and Hive
-Cookbook, a certified Hadoop developer, and he has also written various technical papers
+Cookbook, a certified Hadoop developer, and he has also written various technical papers.
 
 *Akash Grade*
 is a data engineer living in New Delhi, India. Akash graduated with a BSc in computer science from the University of Delhi in 2011, and later earned an MSc in software engineering from BITS Pilani. He spends most of his time designing highly scalable data pipeline using big-data solutions such as Apache Spark, Hive, and Kafka. Akash is also a Databricks-certified Spark developer. He has been working on Apache Spark for the last five years, and enjoys writing applications in Python, Go, and SQL. 
