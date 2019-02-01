@@ -4,7 +4,7 @@
 
 This is the code repository for [Apache Spark Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789349108 ), published by Packt.
 
-* Quickly learn the art of writing efficient big data applications with Apache Spark
+**Quickly learn the art of writing efficient big data applications with Apache Spark**
 
 ## What is this book about?
 Apache Spark is a ?exible framework that allows processing of batch and real-time data. Its unified engine has made it quite popular for big data use cases. This book will help you to get started with Apache Spark 2.0 and write big data applications for a variety of use cases.
@@ -25,7 +25,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
-*Following is what you need for this book:*
+Following is what you need for this book:
 This book is aimed at Business Analysts, Data Analysts and Data Scientists who wish to make a hands-on start in order to take advantage of modern Big Data technologies combined with Advanced Analytics.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-8).
