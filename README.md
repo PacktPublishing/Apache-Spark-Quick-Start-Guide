@@ -45,7 +45,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 * Machine Learning with Apache Spark Quick Start Guide [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789346568)
 
 
-## Get to Know the Author
+## Get to Know the Authors
 *Shrey Mehrotra*
 has over 8 years of IT experience and, for the past 6 years, has been
 designing the architecture of cloud and big-data solutions for the finance, media, and
@@ -62,6 +62,9 @@ HBase, and Hive. His technical strengths also include Elasticsearch, Kafka, Java
 Sqoop, and Flume. He likes spending time performing research and development on
 different big-data technologies. He is the coauthor of the books Learning YARN and Hive
 Cookbook, a certified Hadoop developer, and he has also written various technical papers
+
+*Akash Grade*
+is a data engineer living in New Delhi, India. Akash graduated with a BSc in computer science from the University of Delhi in 2011, and later earned an MSc in software engineering from BITS Pilani. He spends most of his time designing highly scalable data pipeline using big-data solutions such as Apache Spark, Hive, and Kafka. Akash is also a Databricks-certified Spark developer. He has been working on Apache Spark for the last five years, and enjoys writing applications in Python, Go, and SQL. 
 
 
 ## Other books by the authors
