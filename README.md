@@ -1,6 +1,6 @@
 # Apache Spark Quick Start Guide
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789349108 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10957_MockupCover.png" alt="Apache Spark Quick Start Guide" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789349108 "><img src="https://www.packtpub.com/sites/default/files/cover_10957.png" alt="Apache Spark Quick Start Guide" height="256px" align="right"></a>
 
 This is the code repository for [Apache Spark Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789349108 ), published by Packt.
 
@@ -40,7 +40,7 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789349108_ColorImages.pdf).
 
 ### Related products
-* Big Data Analytics Using Apache Spark [Video] [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/big-data-analytics-using-apache-spark-video?utm_source=github&utm_medium=repository&utm_campaign=9781789134124 ) [[Amazon]](https://www.amazon.com/dp/1789134129)
+* Big Data Analytics Using Apache Spark [Video] [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/big-data-analytics-using-apache-spark-video?utm_source=github&utm_medium=repository&utm_campaign=9781789134124 )
 
 * Machine Learning with Apache Spark Quick Start Guide [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-apache-spark-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789346568)
 
