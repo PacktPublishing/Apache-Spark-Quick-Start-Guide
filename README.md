@@ -7,7 +7,7 @@ This is the code repository for [Apache Spark Quick Start Guide](https://www.pac
 **Quickly learn the art of writing efficient big data applications with Apache Spark**
 
 ## What is this book about?
-Apache Spark is a ?exible framework that allows processing of batch and real-time data. Its unified engine has made it quite popular for big data use cases. This book will help you to get started with Apache Spark 2.0 and write big data applications for a variety of use cases.
+Apache Spark is a flexible framework that allows processing of batch and real-time data. Its unified engine has made it quite popular for big data use cases. This book will help you to get started with Apache Spark 2.0 and write big data applications for a variety of use cases.
 
 This book covers the following exciting features:
 * Learn core concepts such as RDDs, DataFrames, transformations, and more 
